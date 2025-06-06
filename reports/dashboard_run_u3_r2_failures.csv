@@ -1,0 +1,9 @@
+Method,Name,Error,Occurrences
+POST,/transliterate/ta,CatchResponseError('Status code 404'),31
+POST,/transliterate/mr,CatchResponseError('Status code 404'),36
+POST,/transliterate/te,CatchResponseError('Status code 404'),25
+POST,/transliterate/kn,CatchResponseError('Status code 404'),29
+POST,/transliterate/bn,CatchResponseError('Status code 404'),24
+POST,/transliterate/hi,CatchResponseError('Status code 404'),30
+POST,/transliterate/gu,CatchResponseError('Status code 404'),29
+POST,/transliterate/pa,CatchResponseError('Status code 404'),24
